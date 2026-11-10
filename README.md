@@ -14,6 +14,6 @@ I'm interested in using data to make better business decisions, especially in fi
 
 ## Tools I use
 
-**Languages:** Python (pandas, NumPy, scikit-learn), SQL
-**Analytics and BI:** Excel, Power BI, Jupyter
-**Workflow:** Git, GitHub
+- **Languages:** Python (pandas, NumPy, scikit-learn), SQL
+- **Analytics and BI:** Excel, Power BI, Jupyter
+- **Workflow:** Git, GitHub
