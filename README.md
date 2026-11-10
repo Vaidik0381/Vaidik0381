@@ -3,6 +3,8 @@
 I'm a senior at the **University of Illinois Chicago**, majoring in **Data Science (Business Analytics)** with a **minor in Finance**.
 I'm interested in using data to make better business decisions, especially in finance and risk.
 
+🌐 **Portfolio:** [vaidik0381.github.io](https://vaidik0381.github.io)
+
 ## Featured projects
 
 | Project | What I did | Tools |
